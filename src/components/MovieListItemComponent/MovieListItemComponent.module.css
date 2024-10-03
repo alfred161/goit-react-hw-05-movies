@@ -1,0 +1,14 @@
+.movieItem {
+  width: fit-content;
+  transition: transform 0.2s;
+}
+
+.movieItem:hover {
+  transform: scale(1.03);
+}
+
+.movieItemTitle {
+  font-weight: normal;
+  padding: 5px 0;
+  margin: 0;
+}

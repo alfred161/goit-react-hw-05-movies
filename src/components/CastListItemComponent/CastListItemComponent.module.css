@@ -1,0 +1,18 @@
+.castListItem {
+  list-style: none;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.nameContainer {
+  padding: 0 10px;
+}
+
+.name {
+  margin: 0 0 10px 0;
+}
+
+.character {
+  font-weight: normal;
+  margin: 0;
+}
